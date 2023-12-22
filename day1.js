@@ -1,77 +1,77 @@
-// console.log("Hack Nasa");
+ console.log("Hack Nasa");
 // Code berfungsi hack nasa
 
 /* ini komentar juga */
 
-// console.log("Haloo");
+console.log("Haloo");
 
-// Nama: "Adit"
-// Alamat : "Tangerang"
+Nama: "Adit"
+Alamat : "Tangerang"
 
-// var namaLengkap = "Adit";
+var namaLengkap = "Adit";
 // var alamat = `Tangerang`;
 
-// console.log('Nama saya '+ namaLengkap + ' alamat saya di' + alamat);
-// console.log(`Nama saya ${namaLengkap} alamat saya di ${alamat}`);
+console.log('Nama saya '+ namaLengkap + ' alamat saya di' + alamat);
+console.log(`Nama saya ${namaLengkap} alamat saya di ${alamat}`);
 
 // // deklarasi variable
 // // VAR, LET, CONST
 
 // // var bisa di deklarasi ulang
-// var nama = "Abi";
-// var nama = "Fadhilah";
-// console.log(nama);
+var nama = "Abi";
+var nama = "Fadhilah";
+console.log(nama);
 
 // // tidak bisa di deklarasi ulang
-// let pekerjaan = "Programmer";
-// pekerjaan = "Designer";
-// console.log(pekerjaan);
+let pekerjaan = "Programmer";
+pekerjaan = "Designer";
+console.log(pekerjaan);
 
 // // value tetap, tidak bisa dirubah
-// const alamat = "Tangerang"
-// alamat = "Depok"
-// console.log(alamat);
+//const alamat = "Tangerang"
+alamat = "Depok"
+console.log(alamat);
 
 var jenisKelamin;
 let jenisKelamin2;
-// const jenisKelamin3;
-// console.log('Sebelum di isi '+jenisKelamin);
-// console.log(jenisKelamin2);
-// console.log(jenisKelamin3);
-// jenisKelamin = "Laki-laki";
-// // console.log(jenisKelamin);
+//const jenisKelamin3;
+console.log('Sebelum di isi '+jenisKelamin);
+console.log(jenisKelamin2);
+console.log(jenisKelamin3);
+jenisKelamin = "Laki-laki";
+console.log(jenisKelamin);
 
 
-// let nama = "Farhan", alamat = "Bandung"
+let nama = "Farhan", alamat = "Bandung"
 
 
-// let diskon = 800;
-// let gratis = "nilai awal";
+let diskon = 800;
+let gratis = "nilai awal";
 // // Jika saya lapar
 // // saya makan
-// if(diskon > 600){
-//     gratis = "Minuman"
-//     // console.log(gratis);
-// } else {
-//     gratis = "angin";
-//     // console.log(gratis);
-// }
-// // console.log(gratis);
+if(diskon > 600){
+     gratis = "Minuman"
+     console.log(gratis);
+ } else {
+     gratis = "angin";
+     console.log(gratis);
+ }
+ console.log(gratis);
 
 
 // //  String
-// let string1 = "Hallo guys";
-// let string2 = 'gimana kabarnya';
-// let string3 = `baik ${string1}`;
+let string1 = "Hallo guys";
+let string2 = 'gimana kabarnya';
+let string3 = `baik ${string1}`;
 
 // // number
-// let umur = 25;
-// // console.log(umur, typeof(umur) );
+ let umur = 25;
+  console.log(umur, typeof(umur) );
 
-// let siswaBinar = true;
+let siswaBinar = true;
 
-// // let hobi;
-// console.log(hobi);
+ let hobi;
+ console.log(hobi);
 
 
 
